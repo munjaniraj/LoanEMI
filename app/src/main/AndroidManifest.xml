@@ -66,6 +66,9 @@
             android:name=".language.LanguageActivity"
             android:exported="false" />
         <activity
+            android:name=".Activities.LegalPageActivity"
+            android:exported="false" />
+        <activity
             android:name=".Activities.FdCalculatorActivity"
             android:exported="false" />
         <activity

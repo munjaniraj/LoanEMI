@@ -52,7 +52,9 @@
     <string name="student_loan_banner" translatable="false">ca-app-pub-3940256099942544/9214589741</string>
 
 
-    <string name="privacy_policy_url" translatable="false"></string>
+    <!-- After Firebase Hosting deploy on project loanemi-a700e, these URLs will work -->
+    <string name="privacy_policy_url" translatable="false">https://loanemi-a700e.web.app/privacy-policy.html</string>
+    <string name="terms_conditions_url" translatable="false">https://loanemi-a700e.web.app/terms-and-conditions.html</string>
     <string name="share_text" translatable="false">LoanEMI App with Privacy. Click here…: https://play.google.com/store/apps/details?id=</string>
 
     <string name="tagline">Smart Calculations, Instant Results</string>
@@ -106,6 +108,13 @@
     <string name="change_language">Change Language</string>
     <string name="theme">Theme</string>
     <string name="privacy_policy">Privacy policy</string>
+    <string name="terms_conditions">Terms &amp; Conditions</string>
+    <string name="privacy_page_headline">Your privacy matters</string>
+    <string name="privacy_page_body">Loan EMI stores your calculation history and preferences on your device. We may use advertising and notification services to improve the app experience.\n\nWe do not ask for your bank login, card details, or account password.\n\nTap the button below to read the full Privacy Policy.</string>
+    <string name="terms_page_headline">Please review our terms</string>
+    <string name="terms_page_body">By using Loan EMI, you agree to use the calculators for informational purposes only. Results are estimates and may differ from actual bank or lender figures.\n\nThe app is provided as-is, without any financial advice guarantee.\n\nTap the button below to read the full Terms &amp; Conditions.</string>
+    <string name="view_full_privacy">View Full Privacy Policy</string>
+    <string name="view_full_terms">View Full Terms &amp; Conditions</string>
     <string name="share_app">Share App</string>
     <string name="rate_us">Rate Us</string>
     <string name="version">Version</string>
